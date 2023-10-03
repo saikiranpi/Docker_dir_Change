@@ -1,4 +1,3 @@
-![image](https://github.com/saikiranpi/Docker_dir_Change/assets/109568252/30d82ad3-4d20-40ef-89c1-cc3bbc585a2d)# Docker_dir_Change
 Changing Docker /var/lib/docker(Root Directory )  to another location.
 
 Step 1
